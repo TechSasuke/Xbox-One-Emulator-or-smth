@@ -5,7 +5,7 @@ I'm currectly studing the Durango CPU and the game files extension when i have f
 
 What i already did
 
--I configured SDL
+-Implemented SDL.
 
 What i still need to do
 
