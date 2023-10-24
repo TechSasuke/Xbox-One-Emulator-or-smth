@@ -11,4 +11,4 @@ What i still need to do
 
 -Everything.
 
--Maybe emulate Xbox Live since you need an Xbox Live profile to play.
+-Maybe emulate Xbox Live since you need an Xbox Live profile to play, but for now i have to worry about emulating the CPU, GPU, audio and RAM.
