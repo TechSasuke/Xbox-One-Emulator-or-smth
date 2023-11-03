@@ -7,6 +7,11 @@ What i already did
 
 -Implemented SDL.
 
+
+*What i'm doing*
+*-Very important: Decrypting an Xbox One game to see how they are*
+
+
 What i still need to do
 
 -Everything.
