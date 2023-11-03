@@ -9,6 +9,7 @@ What i already did
 
 
 *What i'm doing*
+
 *-Very important: Decrypting an Xbox One game to see how they are*
 
 
